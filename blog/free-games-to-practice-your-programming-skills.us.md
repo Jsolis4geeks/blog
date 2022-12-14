@@ -13,7 +13,7 @@ status: "published"
 ---
 # Free games to practice your coding skills
 
-![coding-games.jpg](../../../static/images/blog/coding-games.jpg)
+![coding-games.jpg](https://github.com/4GeeksAcademy/website-v2/blob/master/static/images/blog/coding-games.jpg)
 
 How do you stay motivated while learning to code? 🤔
 
